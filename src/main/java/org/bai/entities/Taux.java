@@ -11,6 +11,12 @@ public class Taux {
 	public String getValeurTaux() {
 		return valeurTaux;
 	}
+	public void setId(Long id) {
+		this.id = id;
+	}
+	public void setValeurTaux(String valeurTaux) {
+		this.valeurTaux = valeurTaux;
+	}
 	
 	
 
