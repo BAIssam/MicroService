@@ -1,9 +1,12 @@
 package org.bai.entities;
 
+import java.util.Date;
+
 public class Taux {
 	
 	private Long id;
 	private String valeurTaux;
+	private Date laDateTaux;
 	
 	public Long getId() {
 		return id;
