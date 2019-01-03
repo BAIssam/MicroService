@@ -18,6 +18,16 @@ public class Taux {
 		this.valeurTaux = valeurTaux;
 	}
 	
+	public Taux() {
+		super();
+		// TODO Auto-generated constructor stub
+	}
+	
+	public Taux(String valeurTaux) {
+		super();
+		this.valeurTaux = valeurTaux;
+	}
+	
 	
 
 }
