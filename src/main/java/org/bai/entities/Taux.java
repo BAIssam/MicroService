@@ -6,6 +6,7 @@ public class Taux {
 	
 	private Long id;
 	private String valeurTaux;
+
 	private Date dateTaux;
 	
 	public Long getId() {
